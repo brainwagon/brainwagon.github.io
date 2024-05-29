@@ -6,6 +6,8 @@ After 33 years at Pixar Animation Studios, I have unexpectedly found myself sear
 - Lightspeed Technical Lead, _Soul_, 2020
 - Lightspeed and Rendering Lead, _Bao_, 2018
 
+# Skills
+
 # Patents
 - [Super Light-Field Lens, US 8,502,909 B2](https://patentimages.storage.googleapis.com/0b/19/0d/38ff8928be610b/US8502909.pdf)
 - [Super Light Field Lens with Focus Control and Non Spherical Lenslet Arrays, US 9,179,799](https://patentimages.storage.googleapis.com/1a/17/0b/28be0f254d51eb/US9197799.pdf)

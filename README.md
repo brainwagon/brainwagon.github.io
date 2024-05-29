@@ -5,5 +5,8 @@ After 33 years at Pixar Animation Studios, I have unexpectedly found myself sear
 - Sequences Dailies Lead, _Turning Red_, 2022
 - Lightspeed Technical Lead, _Soul_, 2020
 
+# Patents
+- [Super Light-Field Lens, US 8,502,909 B2](https://patentimages.storage.googleapis.com/0b/19/0d/38ff8928be610b/US8502909.pdf)
+
 # Education
 - M.S. Computer and Information Sciences, University of Oregon

@@ -7,6 +7,7 @@ After 33 years at Pixar Animation Studios, I have unexpectedly found myself sear
 
 # Patents
 - [Super Light-Field Lens, US 8,502,909 B2](https://patentimages.storage.googleapis.com/0b/19/0d/38ff8928be610b/US8502909.pdf)
+- [Stochastic Level of Detail in Computer Animation](https://patentimages.storage.googleapis.com/3e/d2/f4/5f8da1b7f58573/US6300956.pdf)
 
 # Education
 - M.S. Computer and Information Sciences, University of Oregon

@@ -31,7 +31,7 @@ After 33 years at Pixar Animation Studios, I have unexpectedly found myself sear
 - Leadership of diverse groups of both artists and technical individuals
 - Decades of experience with solving technical problems for a film studio
 - Development, documentation and communication of productive workflows to enhance team productivity
-- Research, development and maintenance of Pixar's RenderMan product, winner of a IEEE Milestone aware
+- Research, development and maintenance of Pixar's RenderMan product, winner of the IEEE Milestone award
 - Development of multiple patents including a light field motion picture camera
 - Training and mentoring new technical directors
 

@@ -1,10 +1,29 @@
 After 33 years at Pixar Animation Studios, I have unexpectedly found myself searching for my next challenge.  I've done a number of different jobs at Pixar, including working for seven different departments with credits on over twenty feature films, with roles that required leadership, writing and maintaining large code bases, original research which lead to four different patents and technical problem solving at every level.  I'm currently taking some time before diving back in, but if you are interested in hearing from me, feel free to [send me an email](mailto:mvandewettering@gmail.com) and let me know what your are looking for.
 
-## Pixar Animation Studios
-- Lighting Technical Lead, _Elemental_, 2023
-- Sequences Dailies Lead, _Turning Red_, 2022
-- Lightspeed Technical Lead, _Soul_, 2020
-- Lightspeed and Rendering Lead, _Bao_, 2018
+## Pixar Animation Studios Filmography 
+- _Elemental_, Lighting Techhnical Lead, 2023
+- _Turning Red_, Sequences Dailies Lead, 2022
+- _Pixar Popcorn_ (six episodes), Rendering 2021
+- _Soul_, Lightspeed Technical Lead, 2020
+- _SparkShorts_, Lightspeed Technical Director, 2018-2020
+- _Toy Story 4_, Lightspeed Technical Director, 2019
+- _Incredibles 2_, Additional Stereo Artist, 2018
+- _Bao_, Lightspeed and Rendering Lead, 2018
+- _Coco_, Lightspeed Technical Director, 2017
+- _Cars 3_, Lightspeed Technical Director, 2016
+- _Finding Dory_, New technology integration engineer, 2016
+- _Brave_, 360 Group, 2012
+- _Cars 2_, 360 Group, 2011
+- _Burn-E_, Special Thanks, Special Army, 2008
+- _WALL·E_, Starfields Development, 2008
+- _Ratatouille_, Technical Development Team, 2007
+- _The Incredibles_, Rendering Technical Artist, 2004
+- _Finding Nemo_, Technical Development, 2003
+- _Monster's Inc._, Software Engineer, 2001
+- _A Bug's Life_, Rendering Software Engineer, 1998
+- _Geri's Game_, Renderman Software, 1997
+- _Cosmic Voyage_, Sofware Engineer, 1996
+- _Toy Story_, RenderMan Software Development, Lighting Team, 1995
 
 ## Skills
 

@@ -26,6 +26,12 @@ After 33 years at Pixar Animation Studios, I have unexpectedly found myself sear
 - _Toy Story_, RenderMan Software Development, Lighting Team, 1995
 
 ## Skills
+- Leadership of diverse groups of both artists and technical individuals
+- Decades of experience with solving technical problems for a film studio
+- Development, documentation and communication of productive workflows to enhance team productivity
+- Research, development and maintenance of Pixar's RenderMan product, winner of a IEEE Milestone aware
+- Development of multiple patents including a light field motion picture camera
+- Training and mentoring new technical directors
 
 ## Patents
 - [Super Light-Field Lens, US 8,502,909 B2](https://patentimages.storage.googleapis.com/0b/19/0d/38ff8928be610b/US8502909.pdf)

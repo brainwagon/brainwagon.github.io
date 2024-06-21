@@ -1,6 +1,25 @@
 ## My Story
 
-After 33 years at Pixar Animation Studios, I have unexpectedly found myself searching for my next challenge.  I've done a number of different jobs at Pixar, including working for seven different departments with credits on over twenty feature films, with roles that required leadership, writing and maintaining large code bases, original research which lead to four different patents and technical problem solving at every level.  I'm currently taking some time before diving back in, but if you are interested in hearing from me, feel free to [send me an email](mailto:mvandewettering@gmail.com) and let me know what your are looking for.
+After 33 years at Pixar Animation Studios, I have unexpectedly found
+myself searching for my next challenge.  I've done a number of different
+jobs at Pixar, including working for seven different departments
+with credits on over twenty feature films, with roles that required
+leadership, writing and maintaining large code bases, original research
+which lead to four different patents and technical problem solving at
+every level.  
+
+I'm currently taking some time before diving back in,
+but if you are interested in hearing from me, feel free to 
+[send me an email](mailto:mvandewettering@gmail.com) and tell me of 
+any opportunities that you think may be of mutual interest.
+
+## My Skills
+
+- Leadership across multiple disciplines, including technical lighting, 
+stereoscopic 3D, software development and workflow development
+- Collaboration with people in both artistic and technical disciplines
+- Programming, with skills in C++ and Python and familiarity with many other languages
+- Curiosity in learning new skills and techniques from others, and adapting existing workflows to new goals and ideas
 
 ## Pixar Animation Studios Filmography 
 - _Elemental_, Lighting Techhnical Lead, 2023
@@ -40,6 +59,12 @@ After 33 years at Pixar Animation Studios, I have unexpectedly found myself sear
 - [Super Light Field Lens with Focus Control and Non Spherical Lenslet Arrays, US 9,179,799](https://patentimages.storage.googleapis.com/1a/17/0b/28be0f254d51eb/US9197799.pdf)
 - [Super Light-Field Lens with Doublet Lenslet Array Element, US 9,063,345 B2](https://patentimages.storage.googleapis.com/cd/64/cf/e0fd791c250a48/US9063345.pdf)
 - [Stochastic Level of Detail in Computer Animation, US 6,300,956](https://patentimages.storage.googleapis.com/3e/d2/f4/5f8da1b7f58573/US6300956.pdf)
+
+## Volunteering
+
+- Volunteer restorer of Rachel, the 20" Brashear Refractor at Chabot Space and Science Center which is used for weekly public viewing
+- Two decades as a volunteer instructor at the Chabot Telescope Maker's Workshop, teaching over seven hundred people on the art of telescope making
+
 
 ## Education
 - M.S. Computer and Information Sciences, University of Oregon

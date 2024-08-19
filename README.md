@@ -1,6 +1,6 @@
 ## My Resume
 
-[Feel free to download my resume.](brainwagon.github.io/VandeWettering_Mark_Res_Final.pdf)
+[Feel free to download my resume.](VandeWettering_Mark_Res_Final.pdf)
 
 ## My Story
 

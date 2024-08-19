@@ -1,7 +1,6 @@
 ## My Resume
 
-[Feel free to download my resume.](https://github.com/brainwagon/brainwagon.github.io/blob/main/VandeWettering_Mark_Res_Final.pdf)
-
+[Feel free to download my resume.](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/brainwagon/brainwagon.github.io/main/VandeWettering_Mark_Res_Final.pdf)
 ## My Story
 
 After 33 years at Pixar Animation Studios, I have unexpectedly found

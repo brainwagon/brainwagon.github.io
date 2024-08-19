@@ -1,3 +1,7 @@
+## My Resume
+
+[Feel free to download my resume.](VandeWettering_Mark_Res_Final.pdf)
+
 ## My Story
 
 After 33 years at Pixar Animation Studios, I have unexpectedly found

@@ -25,7 +25,7 @@ stereoscopic 3D, software development and workflow development
 - Curiosity in learning new skills and techniques from others, and adapting existing workflows to new goals and ideas
 
 ## Pixar Animation Studios Filmography 
-- _Elemental_, Lighting Techhnical Lead, 2023
+- _Elemental_, Lighting Technical Lead, 2023
 - _Turning Red_, Sequences Dailies Lead, 2022
 - _Pixar Popcorn_ (six episodes), Rendering 2021
 - _Soul_, Lightspeed Technical Lead, 2020

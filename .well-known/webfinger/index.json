@@ -1,0 +1,25 @@
+{
+    "subject": "acct:mvandewettering@mvandewettering.com",
+    "aliases": [
+        "https://mvandewettering.com/@mvandewettering",
+        "https://mvandewettering.com/users/mvandewettering",
+        "mvandewettering@mvandewettering.com"
+    ],
+    "links": [
+        {
+            "rel": "http://webfinger.net/rel/profile-page",
+            "type": "text/html",
+            "href": "https://mvandewettering.com"
+        },
+        {
+            "rel": "self",
+            "type": "application/activity+json",
+            "href": "https://mvandewettering.com/users/mvandewettering"
+        },
+        {
+            "rel": "http://ostatus.org/schema/1.0/subscribe",
+            "template": "https://mvandewettering.com/authorize_interaction?uri={uri}"
+        }
+    ]
+}
+

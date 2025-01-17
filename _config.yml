@@ -2,3 +2,5 @@ title: Mark VandeWettering
 logo: /caricature.jpg
 description: Caricature courtesy of Domee Shi
 theme: jekyll-theme-minimal
+
+include: [".well-known"]
